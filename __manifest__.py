@@ -4,7 +4,7 @@
     'summary': """ Purchase Historical Date """,
     'description': """ Purchase Historical Date """,
     'author': "AliFaleh@IntegratedPath",
-    'website': "http://www.intpath.com",
+    'website': "https://www.int-path.com",
     'category': 'Purchase',
     'version': '14.0',
     'depends': ['base', 'stock', 'stock_account'],
