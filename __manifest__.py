@@ -7,7 +7,7 @@
     'website': "https://www.int-path.com",
     'category': 'Purchase',
     'version': '14.0',
-    'depends': ['base', 'stock', 'stock_account'],
+    'depends': ['base', 'stock', 'stock_account', 'sale_management'],
     'data': [
         'views/stock_valuation_layer.xml',
     ],
